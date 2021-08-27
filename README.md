@@ -1,5 +1,7 @@
 ![BannerGIF](https://cdn.discordapp.com/attachments/759589395580977153/880652177150980147/SAF.gif)
 
+---
+
 Sistema feito com objetivo de impedir roubos de casas, lojas e apartamentos.
 
 ---
