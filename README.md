@@ -6,7 +6,7 @@
 
 ---
 
-### Sensores Utilizaddos
+### Sensores Utilizados
 
 - Sensor Magnético
 - Sensor de Luminosidade
