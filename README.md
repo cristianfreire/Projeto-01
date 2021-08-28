@@ -2,7 +2,7 @@
 
 ---
 
-Sistema feito com objetivo de impedir roubos de casas, lojas e apartamentos.
+<p align="center">Sistema feito com objetivo de impedir roubos de casas, lojas e apartamentos.</p>
 
 ---
 
